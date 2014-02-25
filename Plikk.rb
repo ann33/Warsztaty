@@ -1,4 +1,7 @@
-# myapp.rb
+﻿# myapp.rb
+
+#komentarz  
+
 require 'sinatra'
 
 get '/' do
